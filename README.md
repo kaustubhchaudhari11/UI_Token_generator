@@ -17,8 +17,6 @@ npm or Yarn
 Getting Started
   1. Clone the Repository
   Clone the project repository to your local machine:
-
-
   git clone https://github.com/kaustubhchaudhari11/UI_Token_generator.git
   cd ui-token-generator
 
@@ -26,7 +24,6 @@ Getting Started
   Navigate to the project directory and install the required dependencies using npm or yarn:
   
   npm install
-  # or
   yarn install
   
 3. Run the Application
