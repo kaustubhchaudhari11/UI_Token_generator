@@ -13,7 +13,6 @@ const TokenGenerator = () => {
 
   const [blueTokensPerRow, setBlueTokensPerRow] = useState(1);
   const [redTokensPerRow, setRedTokensPerRow] = useState(1);
-    // Rendering state - only updates when 'Generate' is clicked
   const [renderedBlueTokensPerRow, setRenderedBlueTokensPerRow] = useState(1);
   const [renderedRedTokensPerRow, setRenderedRedTokensPerRow] = useState(1);
 
