@@ -1,7 +1,7 @@
-****Token Generator Application******
+****Token Generator Application****
 
 
-**This is a simple Token Generator application built using React and Material-UI. The application allows users to generate blue and red tokens with customizable prefixes and row configurations. Users can input the number of tokens, set a prefix, and determine how many tokens should be displayed per row. The generated tokens are displayed in a grid format.
+This is a simple Token Generator application built using React and Material-UI. The application allows users to generate blue and red tokens with customizable prefixes and row configurations. Users can input the number of tokens, set a prefix, and determine how many tokens should be displayed per row. The generated tokens are displayed in a grid format.
 
 Features
 Dynamic Form: Input fields to specify the number of tokens, prefix, and tokens per row.
